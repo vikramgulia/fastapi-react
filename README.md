@@ -1,0 +1,1 @@
+## FastAPI + React + Docker + Nginx
